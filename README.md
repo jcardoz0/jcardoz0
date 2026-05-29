@@ -22,18 +22,20 @@ Tenho perfil proativo, facilidade de aprendizado e forte interesse em crescer pr
 </p>
 
 ---
+---
 
 ### 📊 Estatísticas
 
-<p align="left">
+<p align="center">
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=jcardoz0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    height="165em" 
+    src="https://github-readme-stats.vercel.app/api?username=jcardoz0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
- height="180em" 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcardoz0&theme=tokyonight&layout=compact&custom_title=Tecnologias"
+ height="165em" 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcardoz0&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
 />
 
 </p>
+
