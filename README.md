@@ -22,8 +22,3 @@ Tenho perfil proativo, facilidade de aprendizado e forte interesse em crescer pr
 </p>
 
 ---
-
-md id="q3k0zl"
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcardoz0&show_icons=true&theme=github_dark)
