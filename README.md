@@ -1,19 +1,85 @@
-# 👩🏻‍💻 João Cardozo
+# 👨🏻‍💻 João Cardozo
 
-**`engenherio de dados`**
+**`Backend Developer | Linux User | Docker Enthusiast`**
 
-Sou João Cardozo, tenho 21 anos e sou natural do Rio de Janeiro. Atualmente, curso Engenharia de Software na Estácio.
-Tenho grande interesse na área de dados e busco constantemente aprimorar meus conhecimentos. Compartilho insights, projetos e aprendizados através do meu perfil no LinkedIn "[João Cardozo](www.linkedin.com/in/joãocardozo)" e também aqui no GitHub.
+Me chamo João Cardozo e sou apaixonado por tecnologia, backend, Linux, Docker e engenharia de dados. Atualmente estudo desenvolvimento e construo projetos focados em automações, APIs, containers e sistemas.
 
+<p align="left">
+    <a href="https://github.com/jcardoz0?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/jcardoz0?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
-### 🌐 Conecte-se comigo
+---
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />](www.linkedin.com/in/joãocardozo)
+### 🤖 Tecnologias
 
+<p align="left">
+<img 
+    alt="Python"
+    title="Python" 
+    width="40px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+/>
 
-### 🤖 Linguagens e Tecnologias
+<img 
+ alt="Docker"
+ title="Docker" 
+ width="40px" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
+/>
 
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img 
+ alt="Linux"
+ title="Linux" 
+ width="40px" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
+/>
 
-<br><br>
+<img 
+ alt="PostgreSQL"
+ title="PostgreSQL" 
+ width="40px" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
+/>
+
+<img 
+ alt="MySQL"
+ title="MySQL" 
+ width="40px" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+ alt="Git"
+ title="Git" 
+ width="40px" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+/>
+
+</p>
+
+---
+
+### 📊 Estatísticas
+
+<p>
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=jcardoz0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
+
+<img 
+ align="left" 
+ alt="GitHub Stats" 
+ height="180" 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcardoz0&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
+/>
+
+</p>
