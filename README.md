@@ -23,7 +23,6 @@ Tenho perfil proativo, facilidade de aprendizado e forte interesse em crescer pr
 
 ----
 
-```md id="cdakf0"
 ## 📊 Estatísticas
 
 <p align="center">
@@ -37,5 +36,3 @@ Tenho perfil proativo, facilidade de aprendizado e forte interesse em crescer pr
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcardoz0&theme=github_dark&layout=compact&custom_title=Tecnologias"
   />
 </p>
-```
-
