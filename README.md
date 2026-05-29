@@ -8,7 +8,12 @@ Também possuo experiência profissional no Ministério Público do Estado do Ri
 
 Tenho perfil proativo, facilidade de aprendizado e forte interesse em crescer profissionalmente na área de dados, buscando constantemente evoluir meus conhecimentos técnicos e adquirir experiência prática no mercado de tecnologia.
 
- ```html
+
+---
+
+# COLE ASSIM
+
+:::writing{variant="standard" id="51842"}
 <p align="left">
 
 <img 
@@ -59,5 +64,49 @@ Tenho perfil proativo, facilidade de aprendizado e forte interesse em crescer pr
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
 
+<img 
+    alt="Apache Airflow"
+    title="Apache Airflow" 
+    width="45px" 
+    style="padding-right:10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" 
+/>
+
+<img 
+    alt="FastAPI"
+    title="FastAPI" 
+    width="45px" 
+    style="padding-right:10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" 
+/>
+
 </p>
-```
+:::
+
+---
+
+# O que foi adicionado
+Além dos seus:
+- Apache Airflow
+- FastAPI (ótimo para APIs/backend)
+
+---
+
+# Resultado
+Vai aparecer:
+- tudo alinhado
+- bonito
+- profissional
+- estilo perfil moderno
+
+---
+
+# Próximo passo recomendado
+Depois disso:
+1. Typing animation
+2. GitHub Stats
+3. Tema dark
+4. Snake animation
+5. Banner
+
+Seu GitHub já vai começar a ficar MUITO acima da média.
