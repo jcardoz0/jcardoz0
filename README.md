@@ -23,12 +23,13 @@ Tenho perfil proativo, facilidade de aprendizado e forte interesse em crescer pr
 
 ----
 
+```md id="q1iv8i"
 ## 📊 Estatísticas
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=jcardoz0&show_icons=true&theme=github_dark"
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=jcardoz0&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br"
   />
 </p>
-
-
+```
