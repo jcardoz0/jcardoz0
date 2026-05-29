@@ -21,18 +21,10 @@ Tenho perfil proativo, facilidade de aprendizado e forte interesse em crescer pr
 <img alt="FastAPI" title="FastAPI" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
 </p>
 
-----
+---
 
+```md id="q3k0zl"
 ## 📊 Estatísticas
 
-<p align="center">
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=jcardoz0&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br"
-  />
-
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcardoz0&theme=github_dark&layout=compact&custom_title=Tecnologias"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcardoz0&show_icons=true&theme=github_dark)
+```
