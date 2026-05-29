@@ -2,8 +2,11 @@
 
 **`Backend Developer | Linux User | Docker Enthusiast`**
 
-Me chamo João Cardozo e sou apaixonado por tecnologia, backend, Linux, Docker e engenharia de dados. Atualmente estudo desenvolvimento e construo projetos focados em automações, APIs, containers e sistemas.
+Sou estudante de Engenharia de Software, atualmente no 3º período, com grande interesse na área de Engenharia de Dados e tecnologia voltada à automação e processamento de informações. Tenho conhecimentos em Python, MySQL, Docker, Git, APIs e manipulação de dados, desenvolvidos por meio de projetos práticos, estudos e atividades acadêmicas.
 
+Também possuo experiência profissional no Ministério Público do Estado do Rio de Janeiro, atuando no setor de expedição, realizando organização, arquivamento, digitalização e controle de documentos e processos. Essa experiência contribuiu para o desenvolvimento de habilidades como organização, responsabilidade, atenção aos detalhes e trabalho em equipe.
+
+Tenho perfil proativo, facilidade de aprendizado e forte interesse em crescer profissionalmente na área de dados, buscando constantemente evoluir meus conhecimentos técnicos e adquirir experiência prática no mercado de tecnologia.
 <p align="left">
     <a href="https://github.com/jcardoz0?tab=followers">
         <img 
